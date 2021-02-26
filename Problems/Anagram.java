@@ -24,7 +24,7 @@ public class Anagram {
         System.out.println(bc);
 
         // One way to do it using the Arrays Package is this !
-        System.out.println(Arrays.equals(ac, bc));
+        //System.out.println(Arrays.equals(ac, bc));
 
         return (sa.equalsIgnoreCase(sb)) ? true : false;
     }

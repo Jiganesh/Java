@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Random_Class {
+public class RandomClass {
     public static void main(String[] args) {
         int a[] = new int[20];
         Random r = new Random();

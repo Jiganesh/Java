@@ -9,6 +9,7 @@ public class Map {
         }
         System.out.println();
         // Important
+        
         IntStream.of(array).map(i -> i / 2).forEach(System.out::print);
         System.out.println("\n");
 
