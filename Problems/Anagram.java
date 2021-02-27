@@ -23,6 +23,9 @@ public class Anagram {
         System.out.println(ac);
         System.out.println(bc);
 
+        System.out.println(sa);
+        System.out.println(sb);
+
         // One way to do it using the Arrays Package is this !
         System.out.println(Arrays.equals(ac, bc));
 
