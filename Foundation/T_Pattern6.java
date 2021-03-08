@@ -47,4 +47,5 @@ public class T_Pattern6 {
  *  *           *  *
  *  *  *     *  *  *
 
+ 
 */
