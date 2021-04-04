@@ -21,7 +21,6 @@ class Student{
 	}
 }
 
-//Complete the code
 public class Comparators1
 {
    public static void main(String[] args){
