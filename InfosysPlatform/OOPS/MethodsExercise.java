@@ -1,18 +1,5 @@
-package OOPS;
-class Calculator {
-    
 
-	// Implement your code here
-	public double findAverage(int number1, int number2, int number3){
-	    double result;
-		result = ((double)(number1)+(number2)+(number3))/3;
-		
-        return (double)Math.round(result*100)/100;
-	  
-	}
-}
-
-class MethodsExercise {
+public class MethodsExercise {
 
 	public static void main(String args[]) {
 		Calculator calculator = new Calculator();
@@ -22,4 +9,13 @@ class MethodsExercise {
 	}
 }
 
-// All checks passed 
+class Calculator {
+	// Implement your code here
+	public double findAverage(int number1, int number2, int number3){
+	    double result;
+		result = ((double)(number1)+(number2)+(number3))/3;
+		
+        return (double)Math.round(result*100)/100;
+	  
+	}
+}

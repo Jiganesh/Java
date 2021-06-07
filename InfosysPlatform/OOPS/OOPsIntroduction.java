@@ -1,4 +1,3 @@
-package OOPS;
 
 public class OOPsIntroduction {
     public static void main(String[] args) {

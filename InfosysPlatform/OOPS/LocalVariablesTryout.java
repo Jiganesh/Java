@@ -1,5 +1,3 @@
-package OOPS;
-
 class Demo {
 	public int var1; // Instance variable of the class
 
@@ -22,6 +20,7 @@ public class LocalVariablesTryout {
 		// a field or variable
 		// System.out.println(demo.var2);
 		// System.out.println(var2);
+		
 	}
 }
 
