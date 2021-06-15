@@ -3,7 +3,7 @@
 //How many $5 notes and $1 notes will you use?
 // Implement a program to find out how many $5 notes and $1 notes will be used. If an exact change is not possible, then display -1
 
-package Assignments;
+
 
 public class SelectionControlAssignment6 {
     public static void main(String[] args) {

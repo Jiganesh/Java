@@ -1,4 +1,3 @@
-package Assignments;
 
 public class SelectionControlAssignment2 {
     public static void main(String[] args) {

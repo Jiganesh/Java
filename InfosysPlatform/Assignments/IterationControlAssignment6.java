@@ -1,4 +1,4 @@
-package Assignments;
+
 
 public class IterationControlAssignment6 {
     public static void main(String[] args) {

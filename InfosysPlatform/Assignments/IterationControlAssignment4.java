@@ -1,4 +1,3 @@
-package Assignments;
 
 public class IterationControlAssignment4 {
     public static void main(String[] args) {

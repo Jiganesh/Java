@@ -1,7 +1,6 @@
 // Implement a program to display the sum of two given numbers if the numbers are same. 
 // If the numbers are not same, display the double of the sum.
 
-package Assignments;
 
 public class SelectionControlAssignment1 {
     public static void main(String[] args) {

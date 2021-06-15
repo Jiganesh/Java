@@ -2,7 +2,7 @@
 
 // Note: Only one of the three values can be 7.
 
-package Assignments;
+
 
 public class SelectionControlAssignment3 {
     public static void main(String[] args) {
