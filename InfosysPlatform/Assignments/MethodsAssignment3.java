@@ -1,5 +1,5 @@
 
-class Calculator {
+class Calculators {
 
 	// Implement your code here
 	public int num;
@@ -19,7 +19,7 @@ class MethodsAssignment3 {
 
 	public static void main(String args[]) {
 
-		Calculator calculator = new Calculator();
+		Calculators calculator = new Calculators();
 
 		// Assign a value to the member variable num of Calculator class
 		calculator.num =123;
