@@ -1,3 +1,4 @@
+/*
 public class ConstructorAndThisExercise1 {
 
     public static void main(String[] args) {
@@ -27,3 +28,7 @@ class Customer{
 
     }
 }
+*/
+
+//Just uncomment It will work Fine;
+

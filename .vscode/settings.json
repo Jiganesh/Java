@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Problems",
         "InfosysPlatform/OOPS",
+        "InfosysPlatform/JavaConcepts",
         "InfosysPlatform/Exercises",
         "InfosysPlatform/Assignments",
-        "InfosysPlatform/JavaConcepts"
+        "Foundation"
     ]
 }

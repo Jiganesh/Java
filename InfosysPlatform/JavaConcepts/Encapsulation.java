@@ -1,3 +1,5 @@
+
+/*
 class Customer {
 	// Private member variables
 	private String customerId;
@@ -60,3 +62,8 @@ class Encapsulation {
 		System.out.println("Address : " + customer.getAddress());
 	}
 }
+
+*/
+
+// commented this code because i am having some conflict issue as i have used Customer class names in other file
+// Just uncomment this and it will work fine.
