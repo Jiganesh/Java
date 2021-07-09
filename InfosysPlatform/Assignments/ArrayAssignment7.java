@@ -32,6 +32,7 @@ class ArrayAssignment7{
             char ch = que.charAt(i);
             String left = que.substring(0, i);
             String right = que.substring(i+1);
+        
 
             makepermutation(left+right, answer+ch,result);
         }
