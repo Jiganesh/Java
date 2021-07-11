@@ -1,4 +1,4 @@
-
+/*
 class Employee {
 
 	private String employeeId;
@@ -78,3 +78,6 @@ class EncapsulationExercise {
 
 	}
 }
+*/
+
+//Commenting this code to avoid clashing of similar objects

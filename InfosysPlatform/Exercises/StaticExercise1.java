@@ -1,3 +1,4 @@
+/*
 class Bill{
 
     private static int counter;
@@ -58,4 +59,4 @@ class StaticExercise1 {
        }
     }
 }
-
+*/

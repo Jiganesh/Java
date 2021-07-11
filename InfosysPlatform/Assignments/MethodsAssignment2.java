@@ -1,3 +1,4 @@
+/*
 public class MethodsAssignment2 {
     public static void main(String[] args) {
         Restaurant R1 = new Restaurant("McDonalds",9988676767L,"Texas",4.1F);
@@ -25,3 +26,4 @@ class Restaurant{
         System.out.printf("Restaurant Name: %s\nRestaurant Rating: %f\nRestaurant Contact: %d\nRestaurant Address: %s",this.restaurantName,this.rating,this.restaurantContact,this.restaurantAddress);
     }
 }
+*/

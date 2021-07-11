@@ -1,4 +1,4 @@
-
+/*
 class EncapsulationAssignment2 {
     public static void main(String[] args) {
         MovieTicket movieTicket = new MovieTicket(112, 3);
@@ -62,4 +62,4 @@ class MovieTicket {
         return costPerTicket;
     }
 }
-
+*/

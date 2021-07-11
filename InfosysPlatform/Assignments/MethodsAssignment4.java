@@ -1,5 +1,5 @@
 import java.lang.Math;
-
+/*
 class Rectangle {
     // Implement your code here
     public float length;
@@ -32,3 +32,4 @@ class MethodAssignment4 {
         System.out.printf("Perimeter of the rectangle is %.2f", rectangle.calculatePerimeter());
     }
 }
+*/
