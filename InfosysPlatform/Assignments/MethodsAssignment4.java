@@ -1,5 +1,7 @@
-import java.lang.Math;
 /*
+
+import java.lang.Math;
+
 class Rectangle {
     // Implement your code here
     public float length;

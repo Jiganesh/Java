@@ -1,3 +1,4 @@
+/*
 class ArrayAssignment1 {
     public static void main(String[] args) {
 
@@ -15,6 +16,7 @@ class ArrayAssignment1 {
         
     }
 }
+
 class Teacher {
     private String teacherName;
     private String subject;
@@ -53,3 +55,4 @@ class Teacher {
         this.salary = salary;
     }
 }
+*/

@@ -1,4 +1,4 @@
-
+/*
 public class Exercise1 {
     public static void main(String[] args) {
         Food fooditem = new Food() ;
@@ -23,3 +23,4 @@ class Food{
         System.out.println("The unitPrice is: "+unitPrice);
     }
 }
+*/

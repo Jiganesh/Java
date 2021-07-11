@@ -1,3 +1,4 @@
+/*
 class Student {
 	private int[] marks;
 	private char[] grade;
@@ -58,3 +59,4 @@ class ArrayAssignment4 {
 		}
 	}
 }
+*/
