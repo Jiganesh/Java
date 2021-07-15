@@ -1,3 +1,5 @@
+/*
+
 class Tester {
 
 	public static void main(String[] args) {
@@ -25,7 +27,7 @@ class Tester {
 
 		// Type casting cannot be used to convert any wrapper type to another,
 		// it will give compilation error
-		/* Uncomment the below code and observe the output*/
+		//Uncomment the below code and observe the output
 		// Long phoneNoLong = (Long) new Integer(44281234); 
 
 		// We can make use of methods like intValue(), byteValue(),
@@ -40,3 +42,5 @@ class Tester {
 				+ Integer.toBinaryString(5));
 	}
 }
+
+*/
