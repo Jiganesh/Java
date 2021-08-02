@@ -1,4 +1,4 @@
-class Tester {
+class RegularExpressionAssignment1 {
     
     public static boolean checkPasswordValidity(String password) {
         //Implement your code here and change the return value accordingly

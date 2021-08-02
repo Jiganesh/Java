@@ -1,3 +1,4 @@
+/*
 class Student{
     //Implement your code here
     private final int STIPEND = 100;
@@ -61,3 +62,4 @@ class FinalExercise1 {
 	}
 
 }
+*/
