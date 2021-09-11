@@ -97,8 +97,7 @@ class LinkedList{
         if(currentNode.data ==data){
             this.head =currentNode.next;
         }
-
-
+        
         while( currentNode!= null && currentNode.data !=data){
             prevNode = currentNode;
             currentNode = currentNode.next;
