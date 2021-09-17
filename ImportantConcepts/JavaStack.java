@@ -38,5 +38,6 @@ class JavaStack{
             }
             System.out.println(open.isEmpty());
 		}
+        sc.close();
 	}
 }
