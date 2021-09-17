@@ -1,3 +1,4 @@
+/*
 class Object_Passing {
     public static void main(String args[]){
         paper p = new paper();
@@ -25,3 +26,4 @@ class printer{
         p.setText("Get Lost");
     }
 }
+*/

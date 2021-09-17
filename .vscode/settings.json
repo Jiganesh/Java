@@ -1,9 +1,11 @@
 {
     "java.project.sourcePaths": [
         "Problems",
+        "Learning Java",
         "InfosysPlatform/OOPS",
         "InfosysPlatform/Exercises",
         "InfosysPlatform/Assignments",
-        "DSA"
+        "DSA",
+        "ImportantConcepts"
     ]
 }
