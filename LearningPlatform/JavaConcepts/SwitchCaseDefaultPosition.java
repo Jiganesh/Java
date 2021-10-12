@@ -9,7 +9,7 @@ public class SwitchCaseDefaultPosition {
 		case 2:
 			System.out.println("To");
 		case 3:
-			System.out.println("Infosys");
+			System.out.println("Java");
 			break;
         }
 	}

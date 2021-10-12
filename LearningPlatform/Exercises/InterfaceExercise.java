@@ -120,4 +120,4 @@ class InterfaceExercise {
 }
 */
 
-// One TestCase for [Japan , 335] is failing because the given test case is wrong provided by INFOSYS
+// One TestCase for [Japan , 335] is failing because the given test case is wrong
